@@ -2,7 +2,7 @@ This repo uses [Github API](https://api.github.com/users/VigneshwaranDev) to get
 
 The basic fetch javascript functionality.
 
-##Function
+## Function
 
 ```javascript
 
